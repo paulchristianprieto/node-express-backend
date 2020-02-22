@@ -1,0 +1,28 @@
+.brand:hover {
+	color: black !important;
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+	color: #616263 !important;
+	text-decoration: none;
+}
+
+.active-page {
+	color: black !important;
+	font-weight: bolder;
+}
+
+.MyModalTitle {
+	font-size: 2rem;
+}
+
+.table-data:hover {
+	background-color: #d8cfc1;
+	color: ;
+}
+
